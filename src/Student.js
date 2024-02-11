@@ -27,7 +27,7 @@ export const Student = ()=>{
            </tr>
            <tr>
             <td>Address</td>
-            <td>{d.addresss}</td>
+            <td>{d.address}</td>
            </tr>
            <tr>
             <td>BirthDay</td>
